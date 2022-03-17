@@ -1,4 +1,4 @@
-package com.revature.mvvmjetpackcomposeexample.ui.theme
+package com.revature.mvvmexample.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

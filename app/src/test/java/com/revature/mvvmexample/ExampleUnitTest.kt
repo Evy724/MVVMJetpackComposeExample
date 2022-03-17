@@ -1,4 +1,4 @@
-package com.revature.mvvmjetpackcomposeexample
+package com.revature.mvvmexample
 
 import org.junit.Test
 
